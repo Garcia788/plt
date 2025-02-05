@@ -7,4 +7,4 @@
 - B.C.Pierce. CIS500: Software Foundations
 - Benjamin C.Pierce. Types and Programming Languages
 - Robert Harper. Practical Foundations for Programming Languages
-- Gerald Jay Sussman. Structure and Interpretation of Computer Programs
+- Gerald Jay Sussman. Structure and Interpretation of Computer Program
